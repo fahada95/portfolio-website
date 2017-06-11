@@ -1,0 +1,3 @@
+#76D691 - background color
+#4F9964 - line color
+#67BF80 - secondary background color? gradient color? 
