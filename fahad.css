@@ -72,6 +72,8 @@ nav
 }
 .Umbrella
 {
+  height: 98vh;
+  width: 100vh;
   position: relative;
   margin-top: 0px;
   background-image: url("orange.jpg");
